@@ -66,3 +66,7 @@
 ### Practical Promises
 - [Lecture](https://youtu.be/n9_GfSimnSE)
 - [Live Review](https://youtu.be/iGTXK57XKkk)
+
+### Twitter.SQL
+- [Lecture](https://www.youtube.com/watch?v=X_ZfeSk5plA)
+- [Review](http://youtu.be/kPTEVppUiUU)
