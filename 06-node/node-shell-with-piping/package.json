@@ -1,0 +1,16 @@
+{
+  "name": "nodeshell",
+  "version": "1.0.0",
+  "description": "sweet node shell",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.0",
+    "lodash": "^3.10.1",
+    "request": "^2.60.0"
+  }
+}

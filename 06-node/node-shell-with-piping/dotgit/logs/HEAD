@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 8155956f7304d21961f2f61c772d2c06c83c1611 Gabriel Lebec <glebec@gmail.com> 1438713366 -0400	commit (initial): intialized with bash and commands
+8155956f7304d21961f2f61c772d2c06c83c1611 8232b8d597c3ca57d88c51a234c9296efe2c3d44 Gabriel Lebec <glebec@gmail.com> 1438714217 -0400	commit: pwd and date
+8232b8d597c3ca57d88c51a234c9296efe2c3d44 9bd7fcf3ac313ba4a0e6648ab90883d5c2a14297 Gabriel Lebec <glebec@gmail.com> 1438714919 -0400	commit: modularization
+9bd7fcf3ac313ba4a0e6648ab90883d5c2a14297 af26d10319eb88514738adfd6e687b6295da9003 Gabriel Lebec <glebec@gmail.com> 1438716094 -0400	commit: refactored command signature, working ls
+af26d10319eb88514738adfd6e687b6295da9003 2d2ba6e0c0f504be42b739235e9ada91ef08c8d1 Gabriel Lebec <glebec@gmail.com> 1438717196 -0400	commit: working echo and multiple args
+2d2ba6e0c0f504be42b739235e9ada91ef08c8d1 9a4944eb333b5677060ed91b5f5c7d0af2203138 Gabriel Lebec <glebec@gmail.com> 1438718918 -0400	commit: working cat with multiple files
+9a4944eb333b5677060ed91b5f5c7d0af2203138 da26b6349dc45d32ab289a4a5f0caa397a013fae Gabriel Lebec <glebec@gmail.com> 1438719216 -0400	commit: working head and tail commands
+da26b6349dc45d32ab289a4a5f0caa397a013fae 06a0e9ce55f0b1a3ecaa2f18d1af783aa0f1e96a Gabriel Lebec <glebec@gmail.com> 1438719901 -0400	commit: working wc uniq and sort
+06a0e9ce55f0b1a3ecaa2f18d1af783aa0f1e96a 167cbc4b4990e914888c94b4cb78cfc0d3603bc5 Gabriel Lebec <glebec@gmail.com> 1438720546 -0400	commit: curl
+167cbc4b4990e914888c94b4cb78cfc0d3603bc5 60442fd7708ab802b3d2ab4f657a8a7c9cea1541 Gabriel Lebec <glebec@gmail.com> 1438725581 -0400	commit: piping works
+60442fd7708ab802b3d2ab4f657a8a7c9cea1541 dced64f1cf9cc06651b5cfdc2fb830c59037980f Gabriel Lebec <glebec@gmail.com> 1438727420 -0400	commit: working grep
+dced64f1cf9cc06651b5cfdc2fb830c59037980f a14bb2959d0db8cc9c6e895ec2de09c3bd616539 Gabriel Lebec <glebec@gmail.com> 1438728269 -0400	commit: more modular
