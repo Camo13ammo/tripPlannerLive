@@ -70,3 +70,6 @@
 ### Twitter.SQL
 - [Lecture](https://www.youtube.com/watch?v=X_ZfeSk5plA)
 - [Review](http://youtu.be/kPTEVppUiUU)
+
+### Mongo(oose)
+- [Lecture](http://youtu.be/gBtbpuwTztQ)
