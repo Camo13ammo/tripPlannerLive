@@ -77,3 +77,6 @@
 
 ### Test Driven Development
 - [Lecture](https://youtu.be/VtdBvx50_eU)
+
+### Promise Mechanics (Pledge.js)
+- [Lecture](https://youtu.be/xUyZDRJxCxQ)
