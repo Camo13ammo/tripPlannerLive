@@ -77,3 +77,14 @@
 
 ### Test Driven Development
 - [Lecture](https://youtu.be/VtdBvx50_eU)
+
+### Testing Wikistack
+- [Lecture](http://youtu.be/F1La9T_Cpe8)
+
+### Promise Mechanics (Pledge.js)
+- [Lecture](https://youtu.be/xUyZDRJxCxQ)
+- [Review](https://www.youtube.com/watch?v=_KEDJHHULGU)
+
+### HTML & CSS
+
+- [Lecture](http://youtu.be/qIxImbFrzWI)
