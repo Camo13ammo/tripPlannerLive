@@ -87,4 +87,4 @@
 
 ### HTML & CSS
 
-- [Lecture](http://youtu.be/qIxImbFrzWI)
+- [Lecture](http://youtu.be/qIxImbFrzWI) (sorry audio cuts out around 15 minutes in, instead [here's a lecture](https://youtu.be/-ZRXSQmMEkk) delivered to previous cohort)
