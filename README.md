@@ -84,3 +84,7 @@
 ### Promise Mechanics (Pledge.js)
 - [Lecture](https://youtu.be/xUyZDRJxCxQ)
 - [Review](https://www.youtube.com/watch?v=_KEDJHHULGU)
+
+### HTML & CSS
+
+- [Lecture](http://youtu.be/qIxImbFrzWI)
