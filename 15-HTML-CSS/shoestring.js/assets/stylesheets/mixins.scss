@@ -1,0 +1,16 @@
+@mixin clearfix () {
+	&::before, &::after {
+		content: "";
+		display: block;
+		clear: both;
+	}
+}
+
+@mixin make-column ($type) {
+	@for $i from 1 through 12 {
+		.col-#{$type}-#{$i} {
+			float: left;
+			width: $i*100%/12;
+		}
+	}
+}

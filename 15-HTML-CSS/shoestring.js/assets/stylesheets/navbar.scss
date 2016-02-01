@@ -1,0 +1,55 @@
+$navbar-bg-color: #ddd;
+$navbar-text-color: #626262;
+$navbar-text-hover-color: darken($navbar-text-color, 12%);
+
+$navbar-height: 50px;
+
+body {
+	padding-top: $navbar-height;
+}
+
+.navbar {
+	background-color: $navbar-bg-color;
+	height: $navbar-height;
+	a {
+		text-decoration: none;
+		color: $navbar-text-color;
+		&:hover {
+			color: $navbar-text-hover-color;
+		}
+	}
+	ul {
+		list-style-type: none;
+		margin: 0;
+	}
+}
+
+.navbar-inverse {
+	background-color: invert($navbar-bg-color);
+	a {
+		color: invert($navbar-text-color);
+		&:hover {
+			color: invert($navbar-text-hover-color);
+		}
+	}
+}
+
+.navbar-fixed-top {
+	top: 0;
+	position: fixed;
+	width: 100%;
+}
+
+.navbar-header {
+	margin-top: 16px;
+	float: left;
+}
+
+.navbar-right {
+	padding-top: 16px;
+	float: right;
+}
+
+.navbar-brand {
+	font-size: 1.2em;
+}

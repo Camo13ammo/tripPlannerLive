@@ -1,7 +1,36 @@
 @import "normalize";
 @import "modern-business";
-body {
-  h1 {
-    color: white;
-  }
+@import "mixins";
+@import "grid";
+@import "navbar";
+@import "media-queries";
+
+* {
+	box-sizing: border-box;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.container {
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0% 1%;
+}
+
+.container {
+	@include clearfix();
+}
+
+.img-responsive {
+	width: 100%;
+}
+
+.section {
+	margin-top: 20px;
+}
+
+.section-colored {
+	background-color: #ddd;
 }
