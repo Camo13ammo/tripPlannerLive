@@ -88,3 +88,4 @@
 ### HTML & CSS
 
 - [Lecture](http://youtu.be/qIxImbFrzWI) (sorry audio cuts out around 15 minutes in, instead [here's a lecture](https://youtu.be/-ZRXSQmMEkk) delivered to previous cohort)
+- [Shoestring Review](http://youtu.be/end3F69Ck7o)
