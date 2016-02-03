@@ -58,10 +58,22 @@ describe('Page model', function() {
         describe('findByTag', function() {
           it('gets pages with the search tag', function () {
              return Page.findByTag('javascript').should.eventually.have.length(1)
+                   // Page.findByTag('javascript')
+                   // .then(function (pages) {
+                   //      expect(pages.length).to.be.equal(1);
+                   //      done();
+                   //  }).then(null, done);
           });
+
 
           it('does not get pages without the search tag', function () {
             return Page.findByTag('meerrrrrrr').should.eventually.have.length(0)
+
+
+                // Page.findByTag('falafel').then(function (pages) {
+                //     expect(pages.length).to.be.equal(0);
+                //     done();
+                // }).then(null, done);
           });
         });
     });
@@ -95,6 +107,11 @@ describe('Page model', function() {
         describe('findSimilar', function() {
             it('never gets itself', function () {
                 return cohortPage.findSimilar().should.eventually.contain.an.item.with.property('title', 'Nimit Maru');
+            
+                //    cohortPage.findSimilar().then(function (otherPages) {
+                //     otherPages.should.not.contain.an.item.with.property('title', 'Nimit Maru');
+                //     done();
+                // }).then(null, done);
             });
             it('gets other pages with any common tags', function (done) {
                 cohortPage.findSimilar().then(function (otherPages) {
@@ -110,6 +127,7 @@ describe('Page model', function() {
             });
         });
     });
+
 
     describe('Virtuals', function() {
 
