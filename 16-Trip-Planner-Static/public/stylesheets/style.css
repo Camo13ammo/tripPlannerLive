@@ -1,3 +1,6 @@
+ul {
+  list-style-type: none; }
+
 body {
   padding-top: 50px;
   background: #c1b5ad;
